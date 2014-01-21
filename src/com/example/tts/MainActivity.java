@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
     
     private void speak(){
     	if(tts!=null){
-    		tts.speak(" Hello ÄãºÃ tts ²âÊÔ ", TextToSpeech.QUEUE_ADD, null);
+    		tts.speak(" Hello ÄãºÃ tts ²âÊÔ £¬ÄãºÃÂğ¹ş¹ş", TextToSpeech.QUEUE_ADD, null);
     	}
     }
 
